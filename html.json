@@ -79,5 +79,23 @@
 					
 				],
 				"description": "HTML Bootstrap BoilerPlate"
+			},
+
+			"HTML Comment block": {
+				"scope": "",
+				"prefix": "/-",
+				"body": [
+					"<!-- **************************************************",
+					 "* ",
+					 "* ",
+					 "* ",
+					 "* ",
+					 "* ",
+					"* ",
+					"-->",
+					"\r",
+					"\r",
+				],
+				"description": "Comment block HTML"
 			}
 }
